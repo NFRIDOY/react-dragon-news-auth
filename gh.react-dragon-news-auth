@@ -3,7 +3,7 @@
 echo "# react-dragon-news-auth" >> README.md
 git init
 git add .
-git commit -m "Theme added to the index"
+git commit -m "Theme added to the index.html file"
 git branch -M main
 git remote add origin https://github.com/NFRIDOY/react-dragon-news-auth.git
 git push -u origin main
